@@ -139,6 +139,7 @@ body {
 .closeicon {
     float: right;
     margin-right: 20px;
+    text-decoration: none;
 }
 
 .head {
